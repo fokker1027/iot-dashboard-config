@@ -1,0 +1,40 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": false,
+  "lazyLoadTabs": true,
+  "websites": [
+    {
+      "url": "http://10.173.0.14:9000/dashboards/5cd2960711d94517543adff9",
+      "duration": 20
+    },
+    {
+      "url": "http://10.173.0.14:9000/dashboards/5caf635711d945175414b630",
+      "duration": 20
+    },
+    {
+      "url": "http://10.173.0.15/d/7sXxublic/yilun-general-overview?orgId=1&kiosk&refresh=5m",
+      "duration": 20
+    },
+    {
+      "url": "http://10.173.0.15/d/yCfVS_gZz/haoyu-server?refresh=1m&orgId=1",
+      "duration": 20
+    },
+    {
+      "url": "http://10.173.0.15/d/mNNbzalmz/platform-open-general?refresh=1m&orgId=1",
+      "duration": 20
+    },
+    {
+      "url": "http://10.173.0.15/d/1ANxz-lmz/platform-open-server?refresh=1m&orgId=1",
+      "duration": 20
+    },
+    {
+      "url": "http://10.173.0.15/d/vq7bzaliz/platform-elastic-overview?refresh=1m&orgId=1",
+      "duration": 20
+    },
+    {
+      "url": "http://10.173.0.15/d/sNIbk-_mk/platform-mongodb-overview?refresh=1m&orgId=1",
+      "duration": 20
+    }
+  ]
+}
